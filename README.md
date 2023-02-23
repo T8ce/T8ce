@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @T8ce
-- 👀 I’m interested in cybersecurity & project management 
+- 👋 Hi, I’m Stace
+- 👀 I’m interested in cybersecurity, project management, and data analytics.  
 - 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to collaborate on vulnerability testing, auditing, & project/product management.
 - 📫 How to reach me ...tbd
