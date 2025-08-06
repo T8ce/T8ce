@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stace
-- 👀 I’m interested in cybersecurity, project management, and data analytics.  
+- 👀 I’m interested in cybersecurity, project management, and data analysis.  
 - 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to collaborate on vulnerability testing, auditing, & project/product management.
 - 📫 How to reach me ...tbd
