@@ -4,7 +4,7 @@
 I am a Project Manager and Security Professional looking to transition into cybersecurity and cloud infrastructure.  
 I bring over 7 years of experience in mission-critical environments, with a focus on technical problem-solving, compliance, and security.  
 
-*Please be patient as I build my GitHub. This is a new platform for me, and I am learning as I go. Feel free to reach out with any questions or feedback.*  
+**Please be patient as I build my GitHub. This is a new platform for me, and I am learning as I go. Feel free to reach out with any questions or feedback.**
 
 ## Areas of Interest  
 - Cybersecurity 
